@@ -1,27 +1,66 @@
-# Helpdesk
+🚀 Sistema Web de Help Desk Fullstack / Front End em Andamento ...
+Este projeto que eu elaborei tem como objetivo mostrar uma aplicação completa de Help Desk, utilizando tecnologias modernas e práticas de mercado. O sistema permite que microempresas abram e gerenciem suas ordens de serviço através de uma interface web intuitiva e robusta.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+📚 O que eu fiz:
 
-## Development server
+Instalei e configurei as ferramentas para iniciar um projeto Web Fullstack
+Criei e consumir APIs RESTful com Spring Boot e Angular
+Implementei autenticação e autorização com Tokens JWT
+Trabalhei com Spring Data JPA, Hibernate, DTOs e tratamento personalizado de exceções
+Desenvolvi o front-end com Angular 12, Typescript, HTML5 e CSS3
+Apliquei padrões de desenvolvimento em camadas com MVC
+Configurei e consumir banco de dados MySQL e H2
+Trabalhei com Postman, Git Bash e GitHub
+Realizei deploy do back-end no Heroku e front-end na Vercel
+Apliquei conceitos de segurança em APIs e rotas front-end.
+💻 Tecnologias Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+🔙 Back-end
 
-## Code scaffolding
+Java 11 LTS
+Spring Boot 2.3.x
+Spring MVC / Spring Security / Spring Data JPA
+Hibernate
+JWT (Autenticação e Autorização)
+Banco de dados MySQL
+Banco H2 (em tempo de compilação)
+Git Bash
+Postman
+Heroku
+7-Zip
+🖥️ Front-end
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Angular 12
+Typescript
+HTML5 / CSS3
+Angular Material
+Angular Reactive Forms
+Visual Studio Code
+Vercel (deploy)
+🔍 Visão Funcional
 
-## Build
+Sistema CRUD (Create, Read, Update, Delete)
+Gerenciamento de ordens de serviço para microempresas
+Dashboard com indicadores de chamados
+Comunicação segura entre cliente e atendente
+📐 Visão Técnica
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Back-end
 
-## Running unit tests
+API RESTful com Spring Boot 2.3.x
+Banco MySQL com JPA e Hibernate
+Validação de dados e tratamento de exceções
+Autenticação e autorização via JWT
+Camadas bem definidas seguindo o padrão MVC
+Perfis de desenvolvimento e teste configurados
+Front-end
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+SPA com Angular 12
+Componentes visuais com Angular Material
+Navegação com roteamento protegido
+Formulários reativos
+Comunicação com a API via HTTP
+☁️ Deploy
+Backend: Heroku
+Frontend: Vercel
+Repositório: GitHub
